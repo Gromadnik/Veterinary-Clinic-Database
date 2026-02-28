@@ -15,6 +15,8 @@ TECHNICAL SPECIFICATIONS
 - Implementation: SQL DDL scripts for table creation and relationship definitions.
 
 DATABASE SCHEMA
+
+
 <img width="602" height="305" alt="Schemat_bazy" src="https://github.com/user-attachments/assets/013118a4-0493-49cf-883c-a25825f1994c" />
 
 
