@@ -17,7 +17,8 @@ TECHNICAL SPECIFICATIONS
 DATABASE SCHEMA
 
 
-<img width="602" height="305" alt="Schemat_bazy" src="https://github.com/user-attachments/assets/013118a4-0493-49cf-883c-a25825f1994c" />
+<img width="1197" height="608" alt="image" src="https://github.com/user-attachments/assets/f4d86ca5-3449-493f-9a26-a066547a886e" />
+
 
 
 PROJECT STRUCTURE
