@@ -23,4 +23,4 @@ DATABASE SCHEMA
 
 PROJECT STRUCTURE
 - /scripts: Contains 4 DDL files for database deployment.
-- /docs: Full technical documentation in Polish.
+
